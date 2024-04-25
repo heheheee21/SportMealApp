@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "950357870953",
+    "firebase_url": "https://sportapp-aa0e9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sportapp-aa0e9",
+    "storage_bucket": "sportapp-aa0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950357870953:ios:5b2835ce1cf48addd495f8",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTRSRtAEju1SwP62LBwlBar3gNDtypHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
